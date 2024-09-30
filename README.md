@@ -12,8 +12,8 @@ This project is a web application built using Streamlit that allows users to upl
 
 1. **Clone the repository**:
     ```sh
-    git clone hhttps://github.com/Vignesh1625/Hindi-English-OCR
-    cd Hindi-English-OCR
+    git clone hhttps://github.com/namanmuktha/Eng-Hin-OCR
+    cd Eng-Hin-OCR
     ```
 
 2. **Create a virtual environment**:
